@@ -30,7 +30,7 @@ print("Square root of the number:",b)
 ```
 
 ## Output:
-![gcd of two number](/output.png)
+<img width="597" alt="image" src="https://github.com/Vigneshv-23/Square-root-of-a-number/assets/110780412/967b9f8c-79c9-440b-a989-5dc2b501cd1b">
 
 
 ## Result:
